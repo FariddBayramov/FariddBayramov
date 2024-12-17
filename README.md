@@ -27,8 +27,14 @@ Interested in building innovative projects in front-end development? Let’s con
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white) &nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) &nbsp;
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) &nbsp;
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white) &nbsp;
+![Formik](https://img.shields.io/badge/Formik-FF9800?style=flat&logo=formik&logoColor=white) &nbsp;
+![Yup](https://img.shields.io/badge/Yup-000000?style=flat&logo=yup&logoColor=white) &nbsp;
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white) &nbsp;
-![Yup](https://img.shields.io/badge/Yup-000000?style=flat&logo=yup&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white) &nbsp;
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) &nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) &nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -45,6 +51,9 @@ Interested in building innovative projects in front-end development? Let’s con
 
 ### Data Science & AI:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) &nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) &nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) &nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) &nbsp;
 ![Artificial Neural Network](https://img.shields.io/badge/ANN-ff7f00?style=flat&logo=artificial-intelligence&logoColor=white) &nbsp;
 ![CNN](https://img.shields.io/badge/CNN-ff0000?style=flat&logo=artificial-intelligence&logoColor=white) &nbsp;
 ![RNN](https://img.shields.io/badge/RNN-00bfae?style=flat&logo=artificial-intelligence&logoColor=white)
